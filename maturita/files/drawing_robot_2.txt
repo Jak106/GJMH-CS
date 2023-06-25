@@ -1,0 +1,10 @@
+line
+repeat 4
+line
+left
+repeatend
+right
+right
+line
+left
+line

@@ -1,0 +1,11 @@
+10;0;Main Square
+5;0;Green Park
+50;1;High Street
+2;0;Hospital 
+10;3;Theatre
+1;1;Town Hall
+15;10;University
+1;2;Bank
+21;0;Swimming Pool
+0;7;Long Street
+0;91;Bus Station

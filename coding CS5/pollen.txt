@@ -1,0 +1,101 @@
+50
+Handlova
+2 15
+Hnusta
+91 94
+Vysoke Tatry
+51 72
+Vrbove
+58 48
+Partizanske
+43 66
+Svaty Jur
+42 68
+Moldava nad Bodvou
+71 50
+Spisska Bela
+65 7
+Novaky
+19 34
+Bojnice
+76 81
+Stropkov
+87 2
+Velky Meder
+15 77
+Rajecke Teplice
+16 32
+Martin
+52 62
+Kremnica
+84 73
+Lipany
+55 31
+Nitra
+80 56
+Modry Kamen
+3 99
+Senec
+63 28
+Gbely
+61 97
+Turcianske Teplice
+34 60
+Dubnica nad Vahom
+81 62
+Michalovce
+46 86
+Bardejov
+87 75
+Turany
+28 68
+Strazske
+97 44
+Vranov nad Toplou
+66 96
+Poprad
+13 21
+Puchov
+25 33
+Galanta
+64 89
+Presov
+88 30
+Trencin
+10 96
+Trstena
+29 84
+Velky Krtis
+84 21
+Banska Stiavnica
+46 71
+Velky Saris
+85 84
+Sladkovicovo
+85 48
+Poltar
+64 41
+Stara Tura
+60 16
+Sobrance
+71 76
+Zlate Moravce
+47 25
+Tlmace
+45 12
+Vrutky
+58 96
+Komarno
+35 30
+Bratislava
+78 85
+Hanusovce nad Toplou
+98 96
+Bytca
+5 63
+Roznava
+80 65
+Pezinok
+50 81
+Prievidza
+0 78

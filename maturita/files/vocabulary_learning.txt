@@ -1,0 +1,12 @@
+esposa
+wife
+hermana
+sister
+hermano
+brother
+padre
+father
+madre
+mother
+esposo
+husband

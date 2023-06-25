@@ -1,0 +1,100 @@
+Teplička: 12 30 17
+Čereňany: 11 21 9
+Čičava: 11 24 15
+Bátorová: -15 -3 -17
+Spišský Štiavnik: 10 21 9
+Štefanov: -3 12 -1
+Štós: 7 24 12
+Čaňa: 7 15 4
+Bardejov: -4 15 3
+Bolešov: -4 10 0
+Bytča: 2 13 5
+Stará Turá: -10 1 -3
+Drnava: 11 31 9
+Brezina: 7 21 8
+Bratislava - Nové Mesto - Mestská časť: 1 11 4
+Brusnica: -2 11 4
+Daletice: 9 24 10
+Brehy: 3 11 -1
+Sútor: -13 -6 -17
+Bodorová: 5 25 10
+Svit: 5 21 8
+Stratená: 6 18 9
+Ružiná: -14 -6 -19
+Sedlice: 4 24 8
+Bukovec: 2 18 6
+Šindliar: -1 8 1
+Ďapalovce: -11 0 -11
+Topoľčany: 5 16 10
+Bžany: -11 2 -13
+Repište: -2 10 -5
+Sklabiňa: -9 -2 -11
+Spišský Hrhov: -12 8 -10
+Topoľovka: -3 11 3
+Bohdanovce nad Trnavou: -2 6 0
+Ráztočno: 0 19 -4
+Rozhanovce: 4 23 4
+Ratnovce: -13 2 -13
+Dlhá nad Oravou: 8 25 13
+Slovenské Nové Mesto: 12 24 8
+Cabov: -8 8 -3
+Topoľnica: -8 8 -4
+Štrba: 10 20 11
+Rimavská Sobota: 12 20 8
+Dolné Lefantovce: 8 18 11
+Šúrovce: -5 15 -5
+Cernina: -14 -7 -7
+Skýcov: -7 6 -4
+Černík: 5 15 2
+Čaka: -4 10 -8
+Slatina: -9 5 -10
+Rohožník: 8 15 9
+Čakanovce: 2 19 9
+Svätý Peter: 6 15 3
+Dolná Strehová: -11 1 -13
+Bratislava - Čunovo - Mestská časť: 6 15 5
+Staškov: -15 4 -17
+Šoltýska: 5 20 6
+Bajany: 8 26 7
+Šarišský Štiavnik: -7 0 -5
+Rejdová: 8 27 4
+Benkovce: -15 -8 -13
+Belejovce: -1 19 -6
+Brieštie: -10 2 -3
+Adamovské Kochanovce: -6 10 -5
+Stránske: 10 25 16
+Terany: 5 17 0
+Slovenská Ľupča: 0 13 3
+Ratka: -2 11 -3
+Dolný Bar: 10 27 16
+Slopná: -3 12 2
+Ruská Voľa: -10 3 -9
+Dolné Orešany: 8 24 13
+Bratislava - Podunajské Biskupice - Mestská časť: -7 0 -10
+Rudník: -15 -8 -9
+Dubové: 11 29 18
+Širákov: -6 4 -1
+Sulín: 1 20 7
+Čierna: -7 6 -6
+Bojnice: 1 17 3
+Štôla: 0 19 2
+Slovenské Krivé: 4 11 10
+Červenica pri Sabinove: -5 14 -6
+Belina: 2 22 -1
+Smilno: 2 13 6
+Častkov: -13 -6 -16
+Rožkovany: -1 11 -4
+Stráža: 3 23 10
+Ratkovo: 12 27 13
+Rovňany: -1 19 -2
+Šajdíkove Humence: 0 10 0
+Točnica: -14 -7 -18
+Branovo: 10 19 16
+Domaniža: -3 6 -3
+Stakčínska Roztoka: -7 0 -11
+Ruská Volová: 7 20 3
+Raslavice: 2 18 5
+Borová: 10 28 16
+Ďubákovo: 0 15 3
+Babín: -11 4 -10
+Bobot: -7 12 -6

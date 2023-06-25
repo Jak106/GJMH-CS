@@ -1,0 +1,2 @@
+
+Good: 41728, Bad: 58272, Pravdepodobnost je 4172.8 %. Celkova = 41.728 %
